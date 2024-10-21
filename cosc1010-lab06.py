@@ -1,9 +1,9 @@
-# Your Name Here
+# Gabriel Cruz
 # UWYO COSC 1010
-# Submission Date
+# 10/20/24
 # Lab 06
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 16 
+# Sources, people worked with, help given to: stackoverflow.com
 # your
 # comments
 # here
